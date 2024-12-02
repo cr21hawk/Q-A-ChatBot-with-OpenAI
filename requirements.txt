@@ -3,3 +3,4 @@ langchain-openai==0.2.10
 python-dotenv==1.0.1
 langchain_community==0.3.8
 streamlit==1.40.2
+openai==1.50.0
