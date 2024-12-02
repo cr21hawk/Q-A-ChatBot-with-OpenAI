@@ -22,12 +22,13 @@ pip install -r requiremnets.txt
 touch .env
 ```
 ## Step 5: Create a secret API key
-1. Follow the steps mentioned on this page [smith.langchain.com/settings](https://smith.langchain.com/settings 'Create an API key')
+1. Follow the steps mentioned on this page <a href="https://smith.langchain.com/settings" target="_blank">smith.langchain.com/settings</a>
+
     ```bash
     LANGCHAIN_API_KEY = ""
     LANGCHAIN_PROJECT = "Q&A ChatBot with OpenAI"
     ```
-2. Create an OpenAI API key [platform.openai.com/api-keys](https://platform.openai.com/api-keys 'OpenAI API Key')
+2. Create an OpenAI API key <a href="https://platform.openai.com/api-keys" target="_blank">platform.openai.com/api-keys</a>
 
 ## Step 7: Run the app
 ```bash
