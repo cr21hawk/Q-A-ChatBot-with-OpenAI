@@ -30,7 +30,7 @@ touch .env
     ```
 2. Create an OpenAI API key <a href="https://platform.openai.com/api-keys" target="_blank">platform.openai.com/api-keys</a>
 
-## Step 7: Run the app
+## Step 6: Run the app
 ```bash
 streamlit run app.py
 ```
