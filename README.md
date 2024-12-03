@@ -24,6 +24,7 @@ touch .env
 ## Step 5: Create a secret API key
 1. Follow the steps mentioned on this page <a href="https://smith.langchain.com/settings" target="_blank">smith.langchain.com/settings</a>
 
+    > Copy and paste below varibales in .env file and update with your own API key
     ```bash
     LANGCHAIN_API_KEY = ""
     LANGCHAIN_PROJECT = "Q&A ChatBot with OpenAI"
